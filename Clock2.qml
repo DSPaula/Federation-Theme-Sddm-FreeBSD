@@ -1,5 +1,5 @@
 /***************************************************************************
-* Copyright (c) 2025 Abdurrahman AVCI <abdurrahmanavci@gmail.com>
+* Copyright (c) 2013 Abdurrahman AVCI <abdurrahmanavci@gmail.com>
 *
 * Permission is hereby granted, free of charge, to any person
 * obtaining a copy of this software and associated documentation
@@ -22,7 +22,8 @@
 *
 ***************************************************************************/
 
-import QtQuick 2.0
+/* import QtQuick 2.0 */
+import QtQuick 6.5
 
 Column {
     id: container

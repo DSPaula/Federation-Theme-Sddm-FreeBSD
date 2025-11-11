@@ -6,6 +6,7 @@
  ***************************************************************************/
 
 import QtQuick 6.5
+/*import QtQuick 2.0  # <-- cambiar ayudo a eliminar la cache de QtQuick 6.5 y volver al QtQuick 6.5 para ser funcional */
 import QtQuick.Controls 6.5
 import QtQuick.Layouts 6.5
 import SddmComponents 2.0
@@ -290,8 +291,8 @@ Rectangle {
                     target: container
                     property: "sessionIndex"
                     value: session.currentIndex
-                    }
                 }
+            }
 
             Item { Layout.fillWidth: true }
 

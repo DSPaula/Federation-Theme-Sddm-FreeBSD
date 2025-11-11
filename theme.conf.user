@@ -1,9 +1,4 @@
 [General]
-background=TierraPlana.jpg
-fontSize=16
-textColor=#E0E0E0
+background=EsferoideOblato.jpg
 showClock=true
 type=image
-
-
-

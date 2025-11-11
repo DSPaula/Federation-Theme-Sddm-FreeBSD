@@ -1,4 +1,4 @@
-[Theme]
+[SddmGreeterTheme]
 Name=Federation Login
 Description=Modern SDDM theme built for FreeBSD 14.3+ using QtQuick 6.5
 License=Creative Commons Attribution-ShareAlike (CC-BY-SA)
@@ -6,7 +6,7 @@ Author=Fernando de Paula
 Email=fernando.sars@gmail.com
 Website=https://github.com/DSPaula/Federation
 Copyright=2025 Fernando de Paula
-Type=theme
+Type=sddm-greeter-qt6
 Version=1.0
 MainScript=Main.qml
 ConfigFile=theme.conf
@@ -14,4 +14,4 @@ Screenshot=sddmfederation.png
 TranslationsDirectory=translations
 Theme-Id=Federation
 Theme-API=2.0
-QtVersion=6.5
+QtVersion=6
